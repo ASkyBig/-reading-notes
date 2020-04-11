@@ -3,4 +3,4 @@
 
 ### 工作技巧
 
-- [《靠谱》](https://github.com/ASkyBig/reading-notes/blob/master/%E3%80%8A%E9%9D%A0%E8%B0%B1%E3%80%8B.md)
+- [《靠谱》](https://github.com/ASkyBig/reading-notes/blob/master/working/%E3%80%8A%E9%9D%A0%E8%B0%B1%E3%80%8B.md)
